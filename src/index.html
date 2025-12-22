@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-Hant">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>祕寶大作戰往期回顧</title>
+        <link rel="stylesheet" href="./styles.css" />
+    </head>
+    <body>
+        <header class="topbar">
+            <div class="container">
+                <div class="brand">
+                    <div class="brand__title">祕寶大作戰往期回顧</div>
+                    <div class="brand__subtitle">可從搜尋關鍵字快速篩選</div>
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <section class="board">
+                <div class="board__header">
+                    <h2>期數獎勵列表</h2>
+                    <div class="board__actions">
+                        <input
+                            id="search"
+                            class="input"
+                            placeholder="搜尋關鍵字（例如：神像 / 寶石 / 4階）"
+                        />
+                    </div>
+                </div>
+
+                <div id="grid" class="grid" aria-live="polite"></div>
+
+                <footer class="footer">
+                    <small>資料來源：<code>data.json</code></small>
+                </footer>
+            </section>
+        </main>
+
+        <script src="./script.js"></script>
+    </body>
+</html>

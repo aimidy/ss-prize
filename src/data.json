@@ -157,7 +157,7 @@
             "phase": 20,
             "label": "自選特殊遺物箱 II",
             "title": "自選特殊遺物箱 II",
-            "description": "打開後可自選獲得 原初寶石 或 蒼蒼之石",
+            "description": "打開後可自選獲得 原初寶石 或 賢者之石",
             "iconEmoji": "🎁",
             "side": "right"
         },
@@ -181,7 +181,7 @@
             "phase": 23,
             "label": "自選特殊遺物箱 II",
             "title": "自選特殊遺物箱 II",
-            "description": "打開後可自選獲得 原初寶石 或 蒼蒼之石",
+            "description": "打開後可自選獲得 原初寶石 或 賢者之石",
             "iconEmoji": "🎁",
             "side": "left"
         }

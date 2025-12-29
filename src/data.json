@@ -163,27 +163,35 @@
         },
         {
             "phase": 21,
-            "label": "自選特殊遺物箱 I",
-            "title": "自選特殊遺物箱 I",
-            "description": "打開後可自選獲得 幸運神像 或 黃金神木",
-            "iconEmoji": "🎁",
+            "label": "自選奇蹟古遺物・羽 II",
+            "title": "自選奇蹟古遺物・羽 II",
+            "description": "打開後可自選獲得 1 個 羽之國 II 奇蹟古遺物",
+            "iconEmoji": "🧰",
             "side": "left"
         },
         {
             "phase": 22,
-            "label": "自選 5 階技能碎片",
-            "title": "自選 5 階技能碎片",
-            "description": "打開後可自選獲得任意 1 個 5 階職業技能碎片",
-            "iconEmoji": "❓",
+            "label": "自選特殊遺物箱 I",
+            "title": "自選特殊遺物箱 I",
+            "description": "打開後可自選獲得 幸運神像 或 黃金神木",
+            "iconEmoji": "🎁",
             "side": "right"
         },
         {
             "phase": 23,
+            "label": "自選 5 階技能碎片",
+            "title": "自選 5 階技能碎片",
+            "description": "打開後可自選獲得任意 1 個 5 階職業技能碎片",
+            "iconEmoji": "❓",
+            "side": "left"
+        },
+        {
+            "phase": 24,
             "label": "自選特殊遺物箱 II",
             "title": "自選特殊遺物箱 II",
             "description": "打開後可自選獲得 原初寶石 或 賢者之石",
             "iconEmoji": "🎁",
-            "side": "left"
+            "side": "right"
         }
     ]
 }

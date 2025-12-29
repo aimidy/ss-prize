@@ -110,24 +110,6 @@ body {
     border-color: rgba(31, 42, 51, 0.35);
 }
 
-.grid {
-    position: relative;
-    margin-top: 16px;
-    display: grid;
-    grid-template-columns: 1fr 26px 1fr;
-    gap: 12px;
-    align-items: start;
-}
-
-.timeline {
-    grid-column: 2;
-    position: sticky;
-    top: 72px;
-    height: calc(100vh - 120px);
-    border-left: 2px dashed rgba(31, 42, 51, 0.25);
-    margin: 8px auto;
-}
-
 .card {
     background: var(--card);
     border: 1px solid var(--line);
@@ -215,6 +197,7 @@ body {
     margin-top: 14px;
     color: var(--muted);
 }
+
 .timeline {
     grid-column: 2;
     position: sticky;

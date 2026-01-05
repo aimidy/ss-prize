@@ -6,192 +6,175 @@
             "label": "自選奇蹟古遺物・山",
             "title": "自選奇蹟古遺物・山",
             "description": "打開後可自選獲得 1 個 山之國奇蹟古遺物",
-            "iconEmoji": "🧰",
-            "side": "left"
+            "iconEmoji": "🧰"
         },
         {
             "phase": 2,
             "label": "幸運神像",
             "title": "幸運神像",
             "description": "副本評價獎勵翻倍機率 10%",
-            "iconEmoji": "🗿",
-            "side": "right"
+            "iconEmoji": "🗿"
         },
         {
             "phase": 3,
             "label": "自選 3 階技能碎片 ×180",
             "title": "自選 3 階技能碎片 ×180",
             "description": "打開後可自選獲得任意 1 個 3 階職業技能碎片",
-            "iconEmoji": "❓",
-            "side": "left"
+            "iconEmoji": "❓"
         },
         {
             "phase": 4,
             "label": "原初寶石",
             "title": "原初寶石",
             "description": "寶石獲取率 10%",
-            "iconEmoji": "💎",
-            "side": "right"
+            "iconEmoji": "💎"
         },
         {
             "phase": 5,
             "label": "自選奇蹟古遺物・澤",
             "title": "自選奇蹟古遺物・澤",
             "description": "打開後可自選獲得 1 個 澤之國奇蹟古遺物",
-            "iconEmoji": "🧰",
-            "side": "left"
+            "iconEmoji": "🧰"
         },
         {
             "phase": 6,
             "label": "幸運神像",
             "title": "幸運神像",
             "description": "副本評價獎勵翻倍機率 10%",
-            "iconEmoji": "🗿",
-            "side": "right"
+            "iconEmoji": "🗿"
         },
         {
             "phase": 7,
             "label": "自選 4 階技能碎片 ×180",
             "title": "自選 4 階技能碎片 ×180",
             "description": "打開後可自選獲得任意 1 個 4 階職業技能碎片",
-            "iconEmoji": "❓",
-            "side": "left"
+            "iconEmoji": "❓"
         },
         {
             "phase": 8,
             "label": "原初寶石",
             "title": "原初寶石",
             "description": "寶石獲取率 10%",
-            "iconEmoji": "💎",
-            "side": "right"
+            "iconEmoji": "💎"
         },
         {
             "phase": 9,
             "label": "自選奇蹟古遺物・龍",
             "title": "自選奇蹟古遺物・龍",
             "description": "打開後可自選獲得 1 個 龍之國奇蹟古遺物",
-            "iconEmoji": "🧰",
-            "side": "left"
+            "iconEmoji": "🧰"
         },
         {
             "phase": 10,
             "label": "幸運神像",
             "title": "幸運神像",
             "description": "副本評價獎勵翻倍機率 10%",
-            "iconEmoji": "🗿",
-            "side": "right"
+            "iconEmoji": "🗿"
         },
         {
             "phase": 11,
             "label": "自選 4 階技能碎片 ×180",
             "title": "自選 4 階技能碎片 ×180",
             "description": "打開後可自選獲得任意 1 個 4 階職業技能碎片",
-            "iconEmoji": "❓",
-            "side": "left"
+            "iconEmoji": "❓"
         },
         {
             "phase": 12,
             "label": "原初寶石",
             "title": "原初寶石",
             "description": "寶石獲取率 10%",
-            "iconEmoji": "💎",
-            "side": "right"
+            "iconEmoji": "💎"
         },
         {
             "phase": 13,
             "label": "自選奇蹟古遺物・龍 II",
             "title": "自選奇蹟古遺物・龍 II",
             "description": "打開後可自選獲得 1 個 龍之國 II 奇蹟古遺物",
-            "iconEmoji": "🧰",
-            "side": "left"
+            "iconEmoji": "🧰"
         },
         {
             "phase": 14,
             "label": "幸運神像",
             "title": "幸運神像",
             "description": "副本評價獎勵翻倍機率 10%",
-            "iconEmoji": "🗿",
-            "side": "right"
+            "iconEmoji": "🗿"
         },
         {
             "phase": 15,
             "label": "自選 4 階技能碎片 ×180",
             "title": "自選 4 階技能碎片 ×180",
             "description": "打開後可自選獲得任意 1 個 4 階職業技能碎片",
-            "iconEmoji": "❓",
-            "side": "left"
+            "iconEmoji": "❓"
         },
         {
             "phase": 16,
             "label": "原初寶石",
             "title": "原初寶石",
             "description": "寶石獲取率 10%",
-            "iconEmoji": "💎",
-            "side": "right"
+            "iconEmoji": "💎"
         },
         {
             "phase": 17,
             "label": "自選奇蹟古遺物・羽 I",
             "title": "自選奇蹟古遺物・羽 I",
             "description": "打開後可自選獲得 1 個 羽之國 I 奇蹟古遺物",
-            "iconEmoji": "🧰",
-            "side": "left"
+            "iconEmoji": "🧰"
         },
         {
             "phase": 18,
             "label": "自選特殊遺物箱 I",
             "title": "自選特殊遺物箱 I",
             "description": "打開後可自選獲得 幸運神像 或 黃金神木",
-            "iconEmoji": "🎁",
-            "side": "right"
+            "iconEmoji": "🎁"
         },
         {
             "phase": 19,
             "label": "自選 5 階技能碎片",
             "title": "自選 5 階技能碎片",
             "description": "打開後可自選獲得任意 1 個 5 階職業技能碎片",
-            "iconEmoji": "❓",
-            "side": "left"
+            "iconEmoji": "❓"
         },
         {
             "phase": 20,
             "label": "自選特殊遺物箱 II",
             "title": "自選特殊遺物箱 II",
             "description": "打開後可自選獲得 原初寶石 或 賢者之石",
-            "iconEmoji": "🎁",
-            "side": "right"
+            "iconEmoji": "🎁"
         },
         {
             "phase": 21,
             "label": "自選奇蹟古遺物・羽 II",
             "title": "自選奇蹟古遺物・羽 II",
             "description": "打開後可自選獲得 1 個 羽之國 II 奇蹟古遺物",
-            "iconEmoji": "🧰",
-            "side": "left"
+            "iconEmoji": "🧰"
         },
         {
             "phase": 22,
             "label": "自選特殊遺物箱 I",
             "title": "自選特殊遺物箱 I",
             "description": "打開後可自選獲得 幸運神像 或 黃金神木",
-            "iconEmoji": "🎁",
-            "side": "right"
+            "iconEmoji": "🎁"
         },
         {
             "phase": 23,
             "label": "自選 5 階技能碎片",
             "title": "自選 5 階技能碎片",
             "description": "打開後可自選獲得任意 1 個 5 階職業技能碎片",
-            "iconEmoji": "❓",
-            "side": "left"
+            "iconEmoji": "❓"
         },
         {
             "phase": 24,
             "label": "自選特殊遺物箱 II",
             "title": "自選特殊遺物箱 II",
             "description": "打開後可自選獲得 原初寶石 或 賢者之石",
-            "iconEmoji": "🎁",
-            "side": "right"
+            "iconEmoji": "🎁"
+        },
+        {
+            "phase": 25,
+            "label": "自選奇蹟古遺物・羽 III",
+            "title": "自選奇蹟古遺物・羽 III",
+            "description": "打開後可自選獲得 1 個 羽之國 III 奇蹟古遺物",
+            "iconEmoji": "🧰"
         }
     ]
 }
